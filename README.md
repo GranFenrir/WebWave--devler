@@ -1,2 +1,2 @@
-# WebWave--devler
+# WebWave-Odevler
 WebWave Front-End eğitimi ödevleri
